@@ -7,4 +7,5 @@ Este projeto foi desenvolvido por mim, Alxandre de Medeiros e Felipe Bordingnon.
 Resiquistos:
 
 Java 7 ou superior;
+
 JDBC para SQLite;
